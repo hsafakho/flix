@@ -1,0 +1,6 @@
+framework module Pods_flixewr {
+  umbrella header "Pods-flixewr-umbrella.h"
+
+  export *
+  module * { export * }
+}
